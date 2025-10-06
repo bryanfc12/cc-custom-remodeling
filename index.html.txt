@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>C&C's Custom Remodeling LLC</title>
+</head>
+<body>
+  <header>
+    <h1>C&C's Custom Remodeling LLC</h1>
+    <p>Remodel • Renovate • Restore</p>
+    <img src="logo.png" alt="Logo">
+  </header>
+  <main>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Home Remodeling</li>
+        <li>Kitchen & Bathroom Renovations</li>
+        <li>Custom Carpentry</li>
+        <li>Painting & Flooring</li>
+      </ul>
+    </section>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>We provide high-quality remodeling services with attention to detail.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 C&C's Custom Remodeling LLC</p>
+  </footer>
+</body>
+</html>
